@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+prophet
+torch
+pytorch-lightning
+pytorch-forecasting
+jupyter
+ipykernel
+requests
+
